@@ -1,2 +1,2 @@
 # PythonPersonal
-Personal Python Dev
+These are practice python files I wrote to teach myself the language
