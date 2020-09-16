@@ -1,5 +1,5 @@
 """
-Python program that has a double linked list and counts the number of items in the list
+ double linked list that counts number of items in list
 """
 
 
